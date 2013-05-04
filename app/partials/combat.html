@@ -1,0 +1,61 @@
+<div ng-repeat="pnj in pnjs">
+    <div class="row">
+        <h4>{{pnj.name}}</h4>
+    </div>
+    <div class="row">
+        <span class="span1">Terre :</span>
+        <span><input class="input-small" type="text" ng-model="pnj.anneaux.Terre" ng-change="pnj.calculerPV()"></span>
+    </div>
+    <div class="row">
+        <span class="span1">TN :</span>
+        <span><input class="input-small" type="text" ng-model="pnj.TN"></span>
+    </div>
+    <div class="row">
+        <span class="span1">DR :</span>
+        <span><input class="input-small" type="text" ng-model="pnj.DR"></span>
+    </div>
+    <div class="row">
+        <span class="span1">Init :</span>
+        <span><input class="input-small" type="text" ng-model="pnj.init[0]"> g <input class="input-small" type="text" ng-model="pnj.init[1]"></span>
+    </div>
+    <div class="row">
+        <span class="span2">Init : {{pnj.initJet}}</span>
+        <span><button type="button" class="btn" ng-click="pnj.lancerInit()" >Init !</button></span>
+    </div>
+    <div class="row">
+        <h5>Attaques</h5></div>
+    <div class="row">
+        <span class="span1">Attaque :</span>
+        <span><input class="input-small" type="text" ng-model="pnj.attaque.toucher[0]"> g <input class="input-small" type="text" ng-model="pnj.attaque.toucher[1]"></span>
+    </div>
+    <div class="row">
+        <span class="span1">Dégats :</span>
+        <span><input class="input-small" type="text" ng-model="pnj.attaque.degats[0]"> g <input class="input-small" type="text" ng-model="pnj.attaque.degats[1]"></span>
+    </div>
+    <div class="row">
+        <span class="span2">Toucher : {{pnj.attaqueToucher}}<br/>Dégâts : {{pnj.attaqueDegats}}</span>
+        <span><button type="button" class="btn" ng-click="pnj.attaquer()" >Strike !</button></span>
+    </div>
+    <div class="row">
+        <h5>Blessures</h5>
+    </div>
+    <div class="row">
+        <span class="span1">Dégats :</span>
+        <span><input class="input-small" type="text" ng-model="degats"></span>
+    </div>
+    <div class="row">
+        <span class="span1"><button type="button" class="btn" ng-click="pnj.calculBlessures(degats)">Hit !</button></span>
+    </div>
+    <div class="row">
+        <span class="span1">PV :</span>
+        <span><input class="input-small" type="text" ng-model="pnj.PV"></span>
+    </div>
+    <div class="row">
+        <span class="span1">Malus :</span>
+        <span><input class="input-small" type="text" ng-model="pnj.malus"></span>
+    </div>
+    <div class="row">
+        <span class="span1">Etat :</span>
+        <span>{{pnj.etat}}</span>
+    </div>
+</div>
