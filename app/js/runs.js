@@ -71,28 +71,28 @@ angular.module('myApp.runs', [])
 
                     if (degats > 0) {
 
-                        pnj.PV = pnj.PV - Math.max((degats - pnj.DR), 0);
+                        this.PV = this.PV - Math.max((degats - this.DR), 0);
 
                         var tab =
                                 [
-                                    [pnj.anneaux.Terre * 5, 0, "Indemne"],
-                                    [pnj.anneaux.Terre * 7, -3, "Egratigné"],
-                                    [pnj.anneaux.Terre * 9, -5, "Légèrement blessé"],
-                                    [pnj.anneaux.Terre * 11, -10, "Blessé"],
-                                    [pnj.anneaux.Terre * 13, -15, "Gravement blessé"],
-                                    [pnj.anneaux.Terre * 15, -20, "Impotent"],
-                                    [pnj.anneaux.Terre * 17, -40, "Epuisé"],
-                                    [pnj.anneaux.Terre * 19, -1000, "Hors de combat"],
+                                    [this.anneaux.Terre * 5, 0, "Indemne"],
+                                    [this.anneaux.Terre * 7, -3, "Egratigné"],
+                                    [this.anneaux.Terre * 9, -5, "Légèrement blessé"],
+                                    [this.anneaux.Terre * 11, -10, "Blessé"],
+                                    [this.anneaux.Terre * 13, -15, "Gravement blessé"],
+                                    [this.anneaux.Terre * 15, -20, "Impotent"],
+                                    [this.anneaux.Terre * 17, -40, "Epuisé"],
+                                    [this.anneaux.Terre * 19, -1000, "Hors de combat"],
                                     [1000, -1000, "Mort"]
                                 ];
 
 
                         for (var j in tab) {
-                            console.log(pnj.anneaux.Terre * 19 - pnj.PV, tab[j][0]);
-                            if ((pnj.anneaux.Terre * 19 - pnj.PV) < tab[j][0]) {
+                            console.log(pnj.anneaux.Terre * 19 - this.PV, tab[j][0]);
+                            if ((this.anneaux.Terre * 19 - this.PV) < tab[j][0]) {
 
-                                pnj.malus = tab[j][1];
-                                pnj.etat = tab[j][2];
+                                this.malus = tab[j][1];
+                                this.etat = tab[j][2];
                                 break;
                             }
                         }
@@ -100,20 +100,22 @@ angular.module('myApp.runs', [])
                 };
 
                 pnj.attaquer = function() {
-                    pnj.attaqueToucher = $rootScope.diceRoll(pnj.attaque.toucher[0], pnj.attaque.toucher[1], pnj.attaque.spe, pnj.malus);
-                    pnj.attaqueDegats = $rootScope.diceRoll(pnj.attaque.degats[0], pnj.attaque.degats[1], false, 0);
+                    this.attaqueToucher = $rootScope.diceRoll(this.attaque.toucher[0], this.attaque.toucher[1], this.attaque.spe, pnj.malus);
+                    this.attaqueDegats = $rootScope.diceRoll(this.attaque.degats[0], this.attaque.degats[1], false, 0);
                 };
 
                 pnj.lancerInit = function() {
-                    pnj.initJet = $rootScope.diceRoll(pnj.init[0], pnj.init[1], false, 0);
+                    this.initJet = $rootScope.diceRoll(this.init[0], this.init[1], false, 0);
                 };
 
                 pnj.calculerPV = function() {
-                    pnj.PV = pnj.anneaux.Terre * 19;
-                    pnj.malus = 0;
-                    pnj.etat = "Indemne";
+                    this.PV = this.anneaux.Terre * 19;
+                    this.malus = 0;
+                    this.etat = "Indemne";
                 };
             }
+
+            console.debug($rootScope.pnjs);
 
         });
 
