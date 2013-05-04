@@ -1,12 +1,4 @@
-/* 
-    Document   : app
-    Created on : 4 mai 2013, 17:18:34
-    Author     : Kano
-    Description:
-        Purpose of the stylesheet follows.
-*/
-
-root { 
-    display: block;
+.tdTop{
+    position: relative;
+    vertical-align: top;
 }
-

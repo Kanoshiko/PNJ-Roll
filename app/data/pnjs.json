@@ -27,5 +27,150 @@
             "degats": [6, 2],
             "spe": true
         }
+    },
+    {
+        "name": "Bushi 2",
+        "rang": 3,
+        "TN": 25,
+        "init": [6, 3],
+        "DR": 3,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 3,
+            "Vide": 3
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 3,
+            "Intelligence": 3,
+            "Agilité": 3,
+            "Intuition": 3,
+            "Réflexes": 3
+        },
+        "attaque": {
+            "toucher": [6, 3],
+            "degats": [6, 2],
+            "spe": true
+        }
+    },
+    {
+        "name": "Bushi 3",
+        "rang": 3,
+        "TN": 25,
+        "init": [6, 3],
+        "DR": 3,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 3,
+            "Vide": 3
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 3,
+            "Intelligence": 3,
+            "Agilité": 3,
+            "Intuition": 3,
+            "Réflexes": 3
+        },
+        "attaque": {
+            "toucher": [6, 3],
+            "degats": [6, 2],
+            "spe": true
+        }
+    },
+    {
+        "name": "Bushi 4",
+        "rang": 3,
+        "TN": 25,
+        "init": [6, 3],
+        "DR": 3,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 3,
+            "Vide": 3
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 3,
+            "Intelligence": 3,
+            "Agilité": 3,
+            "Intuition": 3,
+            "Réflexes": 3
+        },
+        "attaque": {
+            "toucher": [6, 3],
+            "degats": [6, 2],
+            "spe": true
+        }
+    },
+    {
+        "name": "Bushi 5",
+        "rang": 3,
+        "TN": 25,
+        "init": [6, 3],
+        "DR": 3,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 3,
+            "Vide": 3
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 3,
+            "Intelligence": 3,
+            "Agilité": 3,
+            "Intuition": 3,
+            "Réflexes": 3
+        },
+        "attaque": {
+            "toucher": [6, 3],
+            "degats": [6, 2],
+            "spe": true
+        }
+    },
+    {
+        "name": "Bushi 6",
+        "rang": 3,
+        "TN": 25,
+        "init": [6, 3],
+        "DR": 3,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 3,
+            "Vide": 3
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 3,
+            "Intelligence": 3,
+            "Agilité": 3,
+            "Intuition": 3,
+            "Réflexes": 3
+        },
+        "attaque": {
+            "toucher": [6, 3],
+            "degats": [6, 2],
+            "spe": true
+        }
     }
 ]
