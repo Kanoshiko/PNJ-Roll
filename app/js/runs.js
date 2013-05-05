@@ -5,6 +5,7 @@ angular.module('myApp.runs', [])
         .run(['$rootScope', '$http', function($rootScope, $http) {
 
         $rootScope.diceRoll = function(DesLances, DesGardes, spe, malus) {
+
             var des = [];
 
             for (var i = 0; i < DesLances; i++) {
@@ -72,9 +73,13 @@ angular.module('myApp.runs', [])
 
                 pnj.calculBlessures = function(degats) {
 
-                    if (degats > 0) {
+                    if (degats > 0 && this.PV > 0) {
 
-                        this.PV = this.PV - Math.max((degats - this.DR), 0);
+                        if (this.ravageur === true && this.malus < 0 && this.malus >= -20) {
+                            this.PV = this.PV - Math.max((degats - (this.DR - this.malus)), 0);
+                        } else {
+                            this.PV = this.PV - Math.max((degats - this.DR), 0);
+                        }
 
                         var tab =
                                 [
@@ -91,7 +96,7 @@ angular.module('myApp.runs', [])
 
 
                         for (var j in tab) {
-                            console.log(pnj.anneaux.Terre * 19 - this.PV, tab[j][0]);
+
                             if ((this.anneaux.Terre * 19 - this.PV) < tab[j][0]) {
 
                                 this.malus = tab[j][1];
@@ -103,8 +108,17 @@ angular.module('myApp.runs', [])
                 };
 
                 pnj.attaquer = function() {
-                    this.attaqueToucher = $rootScope.diceRoll(this.attaque.toucher[0], this.attaque.toucher[1], this.attaque.spe, pnj.malus);
-                    this.attaqueDegats = $rootScope.diceRoll(this.attaque.degats[0], this.attaque.degats[1], false, 0);
+                    this.attaqueToucher = $rootScope.diceRoll(
+                            this.attaque.toucher[0],
+                            this.attaque.toucher[1],
+                            this.attaque.spe,
+                            ((this.ravageur === true) ? 0 : this.malus));
+
+                    this.attaqueDegats = $rootScope.diceRoll(
+                            this.attaque.degats[0],
+                            this.attaque.degats[1],
+                            false,
+                            0);
                 };
 
                 pnj.lancerInit = function() {
@@ -117,8 +131,6 @@ angular.module('myApp.runs', [])
                     this.etat = "Indemne";
                 };
             }
-
-            console.debug($rootScope.pnjs);
 
         });
 
