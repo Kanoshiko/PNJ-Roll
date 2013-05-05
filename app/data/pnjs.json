@@ -1,6 +1,6 @@
 [
     {
-        "name": "Tusno 1",
+        "name": "Ravageur Tsuno 1",
         "rang": 3,
         "TN": 35,
         "init": [8, 5],
@@ -26,10 +26,11 @@
             "toucher": [10, 4],
             "degats": [7, 3],
             "spe": true
-        }
+        },
+        "ravageur": true
     },
     {
-        "name": "Tusno 2",
+        "name": "Ravageur Tsuno 2",
         "rang": 3,
         "TN": 35,
         "init": [8, 5],
@@ -55,10 +56,11 @@
             "toucher": [10, 4],
             "degats": [7, 3],
             "spe": true
-        }
+        },
+        "ravageur": true
     },
     {
-        "name": "Tusno 3",
+        "name": "Ravageur Tsuno 3",
         "rang": 3,
         "TN": 35,
         "init": [8, 5],
@@ -84,10 +86,11 @@
             "toucher": [10, 4],
             "degats": [7, 3],
             "spe": true
-        }
+        },
+        "ravageur": true
     },
     {
-        "name": "Tusno 4",
+        "name": "Ravageur Tsuno 4",
         "rang": 3,
         "TN": 35,
         "init": [8, 5],
@@ -113,10 +116,11 @@
             "toucher": [10, 4],
             "degats": [7, 3],
             "spe": true
-        }
+        },
+        "ravageur": true
     },
     {
-        "name": "Chaman 1",
+        "name": "Chaman Tsuno 1",
         "rang": 3,
         "TN": 35,
         "init": [8, 5],
@@ -145,7 +149,7 @@
         }
     },
     {
-        "name": "Chaman 2",
+        "name": "Chaman Tsuno 2",
         "rang": 3,
         "TN": 35,
         "init": [8, 5],
