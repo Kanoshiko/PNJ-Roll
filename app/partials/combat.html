@@ -1,5 +1,9 @@
+<div class="row">
+    <span class="span3"><button type="button" class="btn" ng-click="lancerInits()" >Inits pour tout le monde !</button></span>
+</div>
+<br/>
 <table class="table">
-    <tr ng-repeat="pnj in pnjs">
+    <tr ng-repeat="pnj in pnjs | orderBy:triParInit">
         <td class="span4 tdTop">
             <div class="row">
                 <span class="span2"><h4>{{pnj.name}}</h4></span>
