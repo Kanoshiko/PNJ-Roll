@@ -1,176 +1,176 @@
 [
     {
-        "name": "Bushi 1",
+        "name": "Tusno 1",
         "rang": 3,
-        "TN": 25,
-        "init": [6, 3],
-        "DR": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
             "Air": 3,
-            "Vide": 3
+            "Vide": 0
         },
         "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 3,
+            "Force": 4,
             "Intelligence": 3,
-            "Agilité": 3,
+            "Agilité": 4,
             "Intuition": 3,
-            "Réflexes": 3
+            "Réflexes": 5
         },
         "attaque": {
-            "toucher": [6, 3],
-            "degats": [6, 2],
+            "toucher": [10, 4],
+            "degats": [7, 3],
             "spe": true
         }
     },
     {
-        "name": "Bushi 2",
+        "name": "Tusno 2",
         "rang": 3,
-        "TN": 25,
-        "init": [6, 3],
-        "DR": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
             "Air": 3,
-            "Vide": 3
+            "Vide": 0
         },
         "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 3,
+            "Force": 4,
             "Intelligence": 3,
-            "Agilité": 3,
+            "Agilité": 4,
             "Intuition": 3,
-            "Réflexes": 3
+            "Réflexes": 5
         },
         "attaque": {
-            "toucher": [6, 3],
-            "degats": [6, 2],
+            "toucher": [10, 4],
+            "degats": [7, 3],
             "spe": true
         }
     },
     {
-        "name": "Bushi 3",
+        "name": "Tusno 3",
         "rang": 3,
-        "TN": 25,
-        "init": [6, 3],
-        "DR": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
             "Air": 3,
-            "Vide": 3
+            "Vide": 0
         },
         "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 3,
+            "Force": 4,
             "Intelligence": 3,
-            "Agilité": 3,
+            "Agilité": 4,
             "Intuition": 3,
-            "Réflexes": 3
+            "Réflexes": 5
         },
         "attaque": {
-            "toucher": [6, 3],
-            "degats": [6, 2],
+            "toucher": [10, 4],
+            "degats": [7, 3],
             "spe": true
         }
     },
     {
-        "name": "Bushi 4",
+        "name": "Tusno 4",
         "rang": 3,
-        "TN": 25,
-        "init": [6, 3],
-        "DR": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
             "Air": 3,
-            "Vide": 3
+            "Vide": 0
         },
         "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 3,
+            "Force": 4,
             "Intelligence": 3,
-            "Agilité": 3,
+            "Agilité": 4,
             "Intuition": 3,
-            "Réflexes": 3
+            "Réflexes": 5
         },
         "attaque": {
-            "toucher": [6, 3],
-            "degats": [6, 2],
+            "toucher": [10, 4],
+            "degats": [7, 3],
             "spe": true
         }
     },
     {
-        "name": "Bushi 5",
+        "name": "Chaman 1",
         "rang": 3,
-        "TN": 25,
-        "init": [6, 3],
-        "DR": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
         "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 3,
-            "Vide": 3
+            "Terre": 4,
+            "Eau": 4,
+            "Feu": 4,
+            "Air": 4,
+            "Vide": 0
         },
         "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 3,
-            "Intelligence": 3,
-            "Agilité": 3,
-            "Intuition": 3,
-            "Réflexes": 3
+            "Volonté": 4,
+            "Endurance": 4,
+            "Perception": 4,
+            "Force": 4,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 4,
+            "Réflexes": 5
         },
         "attaque": {
-            "toucher": [6, 3],
-            "degats": [6, 2],
-            "spe": true
+            "toucher": [9, 4],
+            "degats": [7, 3],
+            "spe": false
         }
     },
     {
-        "name": "Bushi 6",
+        "name": "Chaman 2",
         "rang": 3,
-        "TN": 25,
-        "init": [6, 3],
-        "DR": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
         "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 3,
-            "Vide": 3
+            "Terre": 4,
+            "Eau": 4,
+            "Feu": 4,
+            "Air": 4,
+            "Vide": 0
         },
         "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 3,
-            "Intelligence": 3,
-            "Agilité": 3,
-            "Intuition": 3,
-            "Réflexes": 3
+            "Volonté": 4,
+            "Endurance": 4,
+            "Perception": 4,
+            "Force": 4,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 4,
+            "Réflexes": 5
         },
         "attaque": {
-            "toucher": [6, 3],
-            "degats": [6, 2],
-            "spe": true
+            "toucher": [9, 4],
+            "degats": [7, 3],
+            "spe": false
         }
     }
 ]
