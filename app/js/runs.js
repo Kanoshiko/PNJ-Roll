@@ -50,7 +50,9 @@ angular.module('myApp.runs', [])
             return (Number(a) > Number(b));
         };
 
-
+        $http.get('data/pjs.json').success(function(data) {
+            $rootScope.pjs = data;
+        });
 
         $http.get('data/pnjs.json').success(function(data) {
             $rootScope.pnjs = data;
@@ -64,6 +66,7 @@ angular.module('myApp.runs', [])
                 pnj.malus = 0;
                 pnj.etat = "Indemne";
 
+                pnj.cible = undefined;
                 pnj.attaqueToucher = 0;
                 pnj.attaqueDegats = 0;
 

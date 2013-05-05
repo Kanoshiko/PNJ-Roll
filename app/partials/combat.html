@@ -39,6 +39,14 @@
                 <span><input class="input-small" type="text" ng-model="pnj.attaque.degats[0]"> g <input class="input-small" type="text" ng-model="pnj.attaque.degats[1]"></span>
             </div>
             <div class="row">
+                <span class="span1">Cible :</span>
+                <span>
+                    <select ng-model="pnj.cible" ng-options="pj for pj in pjs">
+                        <option value="">-- Pas de cible --</option>
+                    </select>
+                </span>
+            </div>
+            <div class="row">
                 <span class="span2">Toucher : {{pnj.attaqueToucher}}<br/>Dégâts : {{pnj.attaqueDegats}}</span>
                 <span><button type="button" class="btn" ng-click="pnj.attaquer()" >Strike !</button></span>
             </div>
