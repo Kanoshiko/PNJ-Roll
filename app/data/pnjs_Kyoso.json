@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Kyoso no Oni 1",
+        "rang": 4,
+        "TN": 35,
+        "init": [9, 5],
+        "DR": 10,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 4,
+            "Feu": 4,
+            "Air": 4,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 4,
+            "Endurance": 4,
+            "Perception": 4,
+            "Force": 5,
+            "Intelligence": 4,
+            "Agilité": 4,
+            "Intuition": 4,
+            "Réflexes": 5
+        },
+        "attaque": {
+            "toucher": [9, 5],
+            "degats": [3, 2],
+            "spe": false
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Kyoso no Oni 2",
+        "rang": 4,
+        "TN": 35,
+        "init": [9, 5],
+        "DR": 10,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 4,
+            "Feu": 4,
+            "Air": 4,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 4,
+            "Endurance": 4,
+            "Perception": 4,
+            "Force": 5,
+            "Intelligence": 4,
+            "Agilité": 4,
+            "Intuition": 4,
+            "Réflexes": 5
+        },
+        "attaque": {
+            "toucher": [9, 5],
+            "degats": [3, 2],
+            "spe": false
+        },
+        "ravageur": false
+    }
+]

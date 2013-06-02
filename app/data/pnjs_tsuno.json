@@ -1,0 +1,180 @@
+[
+    {
+        "name": "Ravageur Tsuno 1",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
+        "anneaux": {
+            "Terre": 5,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 3,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 5,
+            "Endurance": 5,
+            "Perception": 3,
+            "Force": 4,
+            "Intelligence": 3,
+            "Agilité": 4,
+            "Intuition": 3,
+            "Réflexes": 5
+        },
+        "attaque": {
+            "toucher": [10, 4],
+            "degats": [7, 3],
+            "spe": true
+        },
+        "ravageur": true
+    },
+    {
+        "name": "Ravageur Tsuno 2",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
+        "anneaux": {
+            "Terre": 5,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 3,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 5,
+            "Endurance": 5,
+            "Perception": 3,
+            "Force": 4,
+            "Intelligence": 3,
+            "Agilité": 4,
+            "Intuition": 3,
+            "Réflexes": 5
+        },
+        "attaque": {
+            "toucher": [10, 4],
+            "degats": [7, 3],
+            "spe": true
+        },
+        "ravageur": true
+    },
+    {
+        "name": "Ravageur Tsuno 3",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
+        "anneaux": {
+            "Terre": 5,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 3,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 5,
+            "Endurance": 5,
+            "Perception": 3,
+            "Force": 4,
+            "Intelligence": 3,
+            "Agilité": 4,
+            "Intuition": 3,
+            "Réflexes": 5
+        },
+        "attaque": {
+            "toucher": [10, 4],
+            "degats": [7, 3],
+            "spe": true
+        },
+        "ravageur": true
+    },
+    {
+        "name": "Ravageur Tsuno 4",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
+        "anneaux": {
+            "Terre": 5,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 3,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 5,
+            "Endurance": 5,
+            "Perception": 3,
+            "Force": 4,
+            "Intelligence": 3,
+            "Agilité": 4,
+            "Intuition": 3,
+            "Réflexes": 5
+        },
+        "attaque": {
+            "toucher": [10, 4],
+            "degats": [7, 3],
+            "spe": true
+        },
+        "ravageur": true
+    },
+    {
+        "name": "Chaman Tsuno 1",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 4,
+            "Feu": 4,
+            "Air": 4,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 4,
+            "Endurance": 4,
+            "Perception": 4,
+            "Force": 4,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 4,
+            "Réflexes": 5
+        },
+        "attaque": {
+            "toucher": [9, 4],
+            "degats": [7, 3],
+            "spe": false
+        }
+    },
+    {
+        "name": "Chaman Tsuno 2",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 4,
+            "Feu": 4,
+            "Air": 4,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 4,
+            "Endurance": 4,
+            "Perception": 4,
+            "Force": 4,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 4,
+            "Réflexes": 5
+        },
+        "attaque": {
+            "toucher": [9, 4],
+            "degats": [7, 3],
+            "spe": false
+        }
+    }
+]
