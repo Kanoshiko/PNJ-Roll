@@ -1,273 +1,358 @@
 [
     {
-        "name": "Kyoso no Oni 1",
-        "rang": 4,
-        "TN": 35,
-        "init": [9, 5],
+        "name": "Gaki 1",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
         "DR": 10,
         "anneaux": {
-            "Terre": 4,
-            "Eau": 4,
-            "Feu": 4,
-            "Air": 4,
+            "Terre": 5,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 4,
-            "Endurance": 4,
-            "Perception": 4,
+            "Volonté": 5,
+            "Endurance": 5,
+            "Perception": 3,
             "Force": 5,
-            "Intelligence": 4,
-            "Agilité": 4,
-            "Intuition": 4,
-            "Réflexes": 5
+            "Intelligence": 3,
+            "Agilité": 5,
+            "Intuition": 2,
+            "Réflexes": 4
         },
         "attaque": {
-            "toucher": [9, 5],
-            "degats": [3, 2],
+            "toucher": [10, 4],
+            "degats": [6, 3],
             "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Kyoso no Oni 2",
-        "rang": 4,
-        "TN": 35,
-        "init": [9, 5],
+        "name": "Gaki 2",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
         "DR": 10,
         "anneaux": {
-            "Terre": 4,
-            "Eau": 4,
-            "Feu": 4,
-            "Air": 4,
+            "Terre": 5,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 4,
-            "Endurance": 4,
-            "Perception": 4,
+            "Volonté": 5,
+            "Endurance": 5,
+            "Perception": 3,
             "Force": 5,
-            "Intelligence": 4,
-            "Agilité": 4,
-            "Intuition": 4,
-            "Réflexes": 5
+            "Intelligence": 3,
+            "Agilité": 5,
+            "Intuition": 2,
+            "Réflexes": 4
         },
         "attaque": {
-            "toucher": [9, 5],
-            "degats": [3, 2],
+            "toucher": [10, 4],
+            "degats": [6, 3],
+            "spe": false
+        },
+        "ravageur": false
+    }, {
+        "name": "Gaki 3",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
+        "DR": 10,
+        "anneaux": {
+            "Terre": 5,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 5,
+            "Endurance": 5,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 3,
+            "Agilité": 5,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [10, 4],
+            "degats": [6, 3],
+            "spe": false
+        },
+        "ravageur": false
+    }, {
+        "name": "Gaki 4",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
+        "DR": 10,
+        "anneaux": {
+            "Terre": 5,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 5,
+            "Endurance": 5,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 3,
+            "Agilité": 5,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [10, 4],
+            "degats": [6, 3],
+            "spe": false
+        },
+        "ravageur": false
+    }, {
+        "name": "Gaki 5",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
+        "DR": 10,
+        "anneaux": {
+            "Terre": 5,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 5,
+            "Endurance": 5,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 3,
+            "Agilité": 5,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [10, 4],
+            "degats": [6, 3],
+            "spe": false
+        },
+        "ravageur": false
+    }, {
+        "name": "Gaki 6",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
+        "DR": 10,
+        "anneaux": {
+            "Terre": 5,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 5,
+            "Endurance": 5,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 3,
+            "Agilité": 5,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [10, 4],
+            "degats": [6, 3],
             "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Guerrier Naga souillé 1",
-        "rang": 3,
-        "TN": 30,
-        "init": [7, 4],
-        "DR": 8,
+        "name": "Gaki 7",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
+        "DR": 10,
         "anneaux": {
-            "Terre": 4,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
-            "Air": 3,
+            "Air": 2,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 4,
-            "Endurance": 4,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 4,
+            "Force": 5,
             "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 3,
+            "Agilité": 5,
+            "Intuition": 2,
             "Réflexes": 4
         },
         "attaque": {
             "toucher": [10, 4],
-            "degats": [8, 2],
-            "spe": true
+            "degats": [6, 3],
+            "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Guerrier Naga souillé 2",
-        "rang": 3,
-        "TN": 30,
-        "init": [7, 4],
-        "DR": 8,
+        "name": "Gaki 8",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
+        "DR": 10,
         "anneaux": {
-            "Terre": 4,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
-            "Air": 3,
+            "Air": 2,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 4,
-            "Endurance": 4,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 4,
+            "Force": 5,
             "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 3,
+            "Agilité": 5,
+            "Intuition": 2,
             "Réflexes": 4
         },
         "attaque": {
             "toucher": [10, 4],
-            "degats": [8, 2],
-            "spe": true
+            "degats": [6, 3],
+            "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Guerrier Naga souillé 3",
-        "rang": 3,
-        "TN": 30,
-        "init": [7, 4],
-        "DR": 8,
+        "name": "Gaki 9",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
+        "DR": 10,
         "anneaux": {
-            "Terre": 4,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
-            "Air": 3,
+            "Air": 2,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 4,
-            "Endurance": 4,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 4,
+            "Force": 5,
             "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 3,
+            "Agilité": 5,
+            "Intuition": 2,
             "Réflexes": 4
         },
         "attaque": {
             "toucher": [10, 4],
-            "degats": [8, 2],
-            "spe": true
+            "degats": [6, 3],
+            "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Guerrier Naga souillé 4",
-        "rang": 3,
-        "TN": 30,
-        "init": [7, 4],
-        "DR": 8,
+        "name": "Gaki 10",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
+        "DR": 10,
         "anneaux": {
-            "Terre": 4,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
-            "Air": 3,
+            "Air": 2,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 4,
-            "Endurance": 4,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 4,
+            "Force": 5,
             "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 3,
+            "Agilité": 5,
+            "Intuition": 2,
             "Réflexes": 4
         },
         "attaque": {
             "toucher": [10, 4],
-            "degats": [8, 2],
-            "spe": true
+            "degats": [6, 3],
+            "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Guerrier Naga souillé 5",
-        "rang": 3,
-        "TN": 30,
-        "init": [7, 4],
-        "DR": 8,
+        "name": "Gaki 11",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
+        "DR": 10,
         "anneaux": {
-            "Terre": 4,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
-            "Air": 3,
+            "Air": 2,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 4,
-            "Endurance": 4,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 4,
+            "Force": 5,
             "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 3,
+            "Agilité": 5,
+            "Intuition": 2,
             "Réflexes": 4
         },
         "attaque": {
             "toucher": [10, 4],
-            "degats": [8, 2],
-            "spe": true
+            "degats": [6, 3],
+            "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Guerrier Naga souillé 6",
-        "rang": 3,
-        "TN": 30,
-        "init": [7, 4],
-        "DR": 8,
+        "name": "Gaki 12",
+        "rang": 2,
+        "TN": 25,
+        "init": [6, 4],
+        "DR": 10,
         "anneaux": {
-            "Terre": 4,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
-            "Air": 3,
+            "Air": 2,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 4,
-            "Endurance": 4,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 4,
+            "Force": 5,
             "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 3,
+            "Agilité": 5,
+            "Intuition": 2,
             "Réflexes": 4
         },
         "attaque": {
             "toucher": [10, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Guerrier Naga souillé 7",
-        "rang": 3,
-        "TN": 30,
-        "init": [7, 4],
-        "DR": 8,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 3,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 4,
-            "Endurance": 4,
-            "Perception": 3,
-            "Force": 4,
-            "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 3,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [10, 4],
-            "degats": [8, 2],
-            "spe": true
+            "degats": [6, 3],
+            "spe": false
         },
         "ravageur": false
     }
-
 ]
