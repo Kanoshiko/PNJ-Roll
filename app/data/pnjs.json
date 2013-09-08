@@ -1,8 +1,8 @@
 [
     {
-        "name": "Gaki 1",
-        "rang": 2,
-        "TN": 25,
+        "name": "Asako bob",
+        "rang": 4,
+        "TN": 35,
         "init": [6, 4],
         "DR": 10,
         "anneaux": {
@@ -17,7 +17,7 @@
             "Endurance": 3,
             "Perception": 3,
             "Force": 5,
-            "Intelligence": 3,
+            "Intelligence": 5,
             "Agilité": 4,
             "Intuition": 2,
             "Réflexes": 4
@@ -177,156 +177,6 @@
     },
     {
         "name": "Gaki 7",
-        "rang": 2,
-        "TN": 25,
-        "init": [6, 4],
-        "DR": 10,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [6, 3],
-            "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Gaki 8",
-        "rang": 2,
-        "TN": 25,
-        "init": [6, 4],
-        "DR": 10,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [6, 3],
-            "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Gaki 9",
-        "rang": 2,
-        "TN": 25,
-        "init": [6, 4],
-        "DR": 10,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [6, 3],
-            "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Gaki 10",
-        "rang": 2,
-        "TN": 25,
-        "init": [6, 4],
-        "DR": 10,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [6, 3],
-            "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Gaki 11",
-        "rang": 2,
-        "TN": 25,
-        "init": [6, 4],
-        "DR": 10,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [6, 3],
-            "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Gaki 12",
         "rang": 2,
         "TN": 25,
         "init": [6, 4],
