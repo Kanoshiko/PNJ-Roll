@@ -1,10 +1,10 @@
 [
     {
-        "name": "Daidoji 1",
+        "name": "Ogre 1",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -30,11 +30,11 @@
         "ravageur": false
     },
     {
-        "name": "Daidoji 2",
+        "name": "Ogre 2",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -60,11 +60,11 @@
         "ravageur": false
     },
     {
-        "name": "Daidoji 3",
+        "name": "Ogre 3",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -89,11 +89,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 4",
+        "name": "Ogre 4",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -118,11 +118,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 5",
+        "name": "Ogre 5",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -147,11 +147,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 6",
+        "name": "Ogre 6",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -176,11 +176,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 7",
+        "name": "Ogre 7",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -205,11 +205,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 8",
+        "name": "Ogre 8",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -234,11 +234,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 9",
+        "name": "Ogre 9",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -263,11 +263,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 10",
+        "name": "Ogre 10",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -292,11 +292,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 11",
+        "name": "Ogre 11",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -321,11 +321,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 12",
+        "name": "Ogre 12",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -350,11 +350,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 13",
+        "name": "Ogre 13",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -379,11 +379,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 14",
+        "name": "Ogre 14",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -408,11 +408,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 15",
+        "name": "Ogre 15",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -437,11 +437,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 16",
+        "name": "Ogre 16",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -466,11 +466,11 @@
         },
         "ravageur": false
     }, {
-        "name": "Daidoji 17",
+        "name": "Ogre 17",
         "rang": 4,
         "TN": 30,
         "init": [3, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 3,
             "Eau": 3,
@@ -496,11 +496,11 @@
         "ravageur": false
     },
     {
-        "name": "Chef Daidoji 1",
+        "name": "Chef Ogre 1",
         "rang": 4,
         "TN": 30,
         "init": [5, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 4,
             "Eau": 3,
@@ -526,11 +526,11 @@
         "ravageur": false
     },
     {
-        "name": "Chef Daidoji 2",
+        "name": "Chef Ogre 2",
         "rang": 4,
         "TN": 30,
         "init": [5, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 4,
             "Eau": 3,
@@ -556,11 +556,11 @@
         "ravageur": false
     },
     {
-        "name": "Chef Daidoji 3",
+        "name": "Chef Ogre 3",
         "rang": 4,
         "TN": 30,
         "init": [5, 2],
-        "DR": 5,
+        "DR": 15,
         "anneaux": {
             "Terre": 4,
             "Eau": 3,
