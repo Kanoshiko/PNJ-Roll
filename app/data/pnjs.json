@@ -1,588 +1,180 @@
 [
     {
-        "name": "Daidoji 1",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
+        "name": "Ravageur Tsuno 1",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
-            "Air": 2,
+            "Air": 3,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
+            "Force": 4,
+            "Intelligence": 3,
             "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
+            "Intuition": 3,
+            "Réflexes": 5
         },
         "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
+            "toucher": [10, 4],
+            "degats": [7, 3],
             "spe": true
         },
-        "ravageur": false
+        "ravageur": true
     },
     {
-        "name": "Daidoji 2",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
+        "name": "Ravageur Tsuno 2",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
-            "Air": 2,
+            "Air": 3,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
+            "Force": 4,
+            "Intelligence": 3,
             "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
+            "Intuition": 3,
+            "Réflexes": 5
         },
         "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
+            "toucher": [10, 4],
+            "degats": [7, 3],
             "spe": true
         },
-        "ravageur": false
+        "ravageur": true
     },
     {
-        "name": "Daidoji 3",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
+        "name": "Ravageur Tsuno 3",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 5,
             "Eau": 3,
             "Feu": 3,
-            "Air": 2,
+            "Air": 3,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
+            "Volonté": 5,
+            "Endurance": 5,
             "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
+            "Force": 4,
+            "Intelligence": 3,
             "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
+            "Intuition": 3,
+            "Réflexes": 5
         },
         "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
+            "toucher": [10, 4],
+            "degats": [7, 3],
             "spe": true
         },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 4",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 5",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 6",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 7",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 8",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 9",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 10",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 11",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 12",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 13",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 14",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 15",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 16",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
-    }, {
-        "name": "Daidoji 17",
-        "rang": 4,
-        "TN": 30,
-        "init": [3, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [8, 4],
-            "degats": [8, 2],
-            "spe": true
-        },
-        "ravageur": false
+        "ravageur": true
     },
     {
-        "name": "Chef Daidoji 1",
-        "rang": 4,
-        "TN": 30,
-        "init": [5, 2],
-        "DR": 5,
+        "name": "Ravageur Tsuno 4",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
+        "anneaux": {
+            "Terre": 5,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 3,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 5,
+            "Endurance": 5,
+            "Perception": 3,
+            "Force": 4,
+            "Intelligence": 3,
+            "Agilité": 4,
+            "Intuition": 3,
+            "Réflexes": 5
+        },
+        "attaque": {
+            "toucher": [10, 4],
+            "degats": [7, 3],
+            "spe": true
+        },
+        "ravageur": true
+    },
+    {
+        "name": "Chaman Tsuno 1",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
         "anneaux": {
             "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
+            "Eau": 4,
+            "Feu": 4,
+            "Air": 4,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
+            "Volonté": 4,
+            "Endurance": 4,
+            "Perception": 4,
+            "Force": 4,
             "Intelligence": 5,
             "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
+            "Intuition": 4,
+            "Réflexes": 5
         },
         "attaque": {
             "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
-        },
-        "ravageur": false
+            "degats": [7, 3],
+            "spe": false
+        }
     },
     {
-        "name": "Chef Daidoji 2",
-        "rang": 4,
-        "TN": 30,
-        "init": [5, 2],
-        "DR": 5,
+        "name": "Chaman Tsuno 2",
+        "rang": 3,
+        "TN": 35,
+        "init": [8, 5],
+        "DR": 8,
         "anneaux": {
             "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
+            "Eau": 4,
+            "Feu": 4,
+            "Air": 4,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
+            "Volonté": 4,
+            "Endurance": 4,
+            "Perception": 4,
+            "Force": 4,
             "Intelligence": 5,
             "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
+            "Intuition": 4,
+            "Réflexes": 5
         },
         "attaque": {
             "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Chef Daidoji 3",
-        "rang": 4,
-        "TN": 30,
-        "init": [5, 2],
-        "DR": 5,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
-        },
-        "ravageur": false
+            "degats": [7, 3],
+            "spe": false
+        }
     }
 ]
