@@ -1,130 +1,40 @@
 [
     {
-        "name": "Ravageur Tsuno 1",
-        "rang": 3,
-        "TN": 35,
-        "init": [8, 5],
-        "DR": 8,
+        "name": "Akuma No Oni",
+        "rang": 9,
+        "TN": 50,
+        "init": [10, 7],
+        "DR": 15,
         "anneaux": {
-            "Terre": 5,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 3,
+            "Terre": 8,
+            "Eau": 6,
+            "Feu": 6,
+            "Air": 6,
             "Vide": 0
         },
         "caracs": {
-            "Volonté": 5,
-            "Endurance": 5,
-            "Perception": 3,
-            "Force": 4,
-            "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 3,
-            "Réflexes": 5
+            "Volonté": 8,
+            "Endurance": 8,
+            "Perception": 6,
+            "Force": 7,
+            "Intelligence": 8,
+            "Agilité": 6,
+            "Intuition": 6,
+            "Réflexes": 7
         },
         "attaque": {
-            "toucher": [10, 4],
-            "degats": [7, 3],
-            "spe": true
+            "toucher": [10, 7],
+            "degats": [10, 5],
+            "spe": false
         },
-        "ravageur": true
+        "ravageur": false
     },
     {
-        "name": "Ravageur Tsuno 2",
-        "rang": 3,
+        "name": "Rejeton 1",
+        "rang": 4,
         "TN": 35,
-        "init": [8, 5],
-        "DR": 8,
-        "anneaux": {
-            "Terre": 5,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 3,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 5,
-            "Endurance": 5,
-            "Perception": 3,
-            "Force": 4,
-            "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 3,
-            "Réflexes": 5
-        },
-        "attaque": {
-            "toucher": [10, 4],
-            "degats": [7, 3],
-            "spe": true
-        },
-        "ravageur": true
-    },
-    {
-        "name": "Ravageur Tsuno 3",
-        "rang": 3,
-        "TN": 35,
-        "init": [8, 5],
-        "DR": 8,
-        "anneaux": {
-            "Terre": 5,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 3,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 5,
-            "Endurance": 5,
-            "Perception": 3,
-            "Force": 4,
-            "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 3,
-            "Réflexes": 5
-        },
-        "attaque": {
-            "toucher": [10, 4],
-            "degats": [7, 3],
-            "spe": true
-        },
-        "ravageur": true
-    },
-    {
-        "name": "Ravageur Tsuno 4",
-        "rang": 3,
-        "TN": 35,
-        "init": [8, 5],
-        "DR": 8,
-        "anneaux": {
-            "Terre": 5,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 3,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 5,
-            "Endurance": 5,
-            "Perception": 3,
-            "Force": 4,
-            "Intelligence": 3,
-            "Agilité": 4,
-            "Intuition": 3,
-            "Réflexes": 5
-        },
-        "attaque": {
-            "toucher": [10, 4],
-            "degats": [7, 3],
-            "spe": true
-        },
-        "ravageur": true
-    },
-    {
-        "name": "Chaman Tsuno 1",
-        "rang": 3,
-        "TN": 35,
-        "init": [8, 5],
-        "DR": 8,
+        "init": [9, 5],
+        "DR": 10,
         "anneaux": {
             "Terre": 4,
             "Eau": 4,
@@ -136,24 +46,25 @@
             "Volonté": 4,
             "Endurance": 4,
             "Perception": 4,
-            "Force": 4,
-            "Intelligence": 5,
+            "Force": 5,
+            "Intelligence": 4,
             "Agilité": 4,
             "Intuition": 4,
             "Réflexes": 5
         },
         "attaque": {
-            "toucher": [9, 4],
-            "degats": [7, 3],
+            "toucher": [9, 5],
+            "degats": [3, 2],
             "spe": false
-        }
+        },
+        "ravageur": false
     },
     {
-        "name": "Chaman Tsuno 2",
-        "rang": 3,
+        "name": "Rejeton 2",
+        "rang": 4,
         "TN": 35,
-        "init": [8, 5],
-        "DR": 8,
+        "init": [9, 5],
+        "DR": 10,
         "anneaux": {
             "Terre": 4,
             "Eau": 4,
@@ -165,16 +76,77 @@
             "Volonté": 4,
             "Endurance": 4,
             "Perception": 4,
-            "Force": 4,
-            "Intelligence": 5,
+            "Force": 5,
+            "Intelligence": 4,
             "Agilité": 4,
             "Intuition": 4,
             "Réflexes": 5
         },
         "attaque": {
-            "toucher": [9, 4],
-            "degats": [7, 3],
+            "toucher": [9, 5],
+            "degats": [3, 2],
             "spe": false
-        }
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Rejeton 3",
+        "rang": 4,
+        "TN": 35,
+        "init": [9, 5],
+        "DR": 10,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 4,
+            "Feu": 4,
+            "Air": 4,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 4,
+            "Endurance": 4,
+            "Perception": 4,
+            "Force": 5,
+            "Intelligence": 4,
+            "Agilité": 4,
+            "Intuition": 4,
+            "Réflexes": 5
+        },
+        "attaque": {
+            "toucher": [9, 5],
+            "degats": [3, 2],
+            "spe": false
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Rejeton 4",
+        "rang": 4,
+        "TN": 35,
+        "init": [9, 5],
+        "DR": 10,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 4,
+            "Feu": 4,
+            "Air": 4,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 4,
+            "Endurance": 4,
+            "Perception": 4,
+            "Force": 5,
+            "Intelligence": 4,
+            "Agilité": 4,
+            "Intuition": 4,
+            "Réflexes": 5
+        },
+        "attaque": {
+            "toucher": [9, 5],
+            "degats": [3, 2],
+            "spe": false
+        },
+        "ravageur": false
     }
 ]
