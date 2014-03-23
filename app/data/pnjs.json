@@ -120,36 +120,6 @@
         "ravageur": false
     },
     {
-        "name": "Itaru",
-        "rang": 4,
-        "TN": 35,
-        "init": [10, 5],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
-        },
-        "ravageur": false
-    },
-    {
         "name": "Wanizame no oni 3",
         "rang": 3,
         "TN": 25,
@@ -176,96 +146,6 @@
             "toucher": [6, 4],
             "degats": [4, 4],
             "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Itaru",
-        "rang": 4,
-        "TN": 35,
-        "init": [10, 5],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Wanizame no oni 4",
-        "rang": 3,
-        "TN": 25,
-        "init": [4, 4],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 2,
-            "Endurance": 2,
-            "Perception": 4,
-            "Force": 4,
-            "Intelligence": 1,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [6, 4],
-            "degats": [4, 4],
-            "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Itaru",
-        "rang": 4,
-        "TN": 35,
-        "init": [10, 5],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
         },
         "ravageur": false
     },
@@ -300,36 +180,6 @@
         "ravageur": false
     },
     {
-        "name": "Itaru",
-        "rang": 4,
-        "TN": 35,
-        "init": [10, 5],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
-        },
-        "ravageur": false
-    },
-    {
         "name": "Wanizame no oni 6",
         "rang": 3,
         "TN": 25,
@@ -356,36 +206,6 @@
             "toucher": [6, 4],
             "degats": [4, 4],
             "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Itaru",
-        "rang": 4,
-        "TN": 35,
-        "init": [10, 5],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
         },
         "ravageur": false
     },
@@ -420,36 +240,6 @@
         "ravageur": false
     },
     {
-        "name": "Itaru",
-        "rang": 4,
-        "TN": 35,
-        "init": [10, 5],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
-        },
-        "ravageur": false
-    },
-    {
         "name": "Wanizame no oni 8",
         "rang": 3,
         "TN": 25,
@@ -476,36 +266,6 @@
             "toucher": [6, 4],
             "degats": [4, 4],
             "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Itaru",
-        "rang": 4,
-        "TN": 35,
-        "init": [10, 5],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
         },
         "ravageur": false
     },
@@ -540,36 +300,6 @@
         "ravageur": false
     },
     {
-        "name": "Itaru",
-        "rang": 4,
-        "TN": 35,
-        "init": [10, 5],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
-        },
-        "ravageur": false
-    },
-    {
         "name": "Wanizame no oni 10",
         "rang": 3,
         "TN": 25,
@@ -596,36 +326,6 @@
             "toucher": [6, 4],
             "degats": [4, 4],
             "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Itaru",
-        "rang": 4,
-        "TN": 35,
-        "init": [10, 5],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [9, 3],
-            "spe": true
         },
         "ravageur": false
     },
@@ -685,96 +385,6 @@
         "attaque": {
             "toucher": [9, 4],
             "degats": [9, 3],
-            "spe": true
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Ronin 1",
-        "rang": 4,
-        "TN": 25,
-        "init": [5, 2],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [7, 2],
-            "spe": true
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Ronin 2",
-        "rang": 4,
-        "TN": 25,
-        "init": [5, 2],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [7, 2],
-            "spe": true
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Ronin 3",
-        "rang": 4,
-        "TN": 30,
-        "init": [5, 2],
-        "DR": 15,
-        "anneaux": {
-            "Terre": 4,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 3,
-            "Endurance": 3,
-            "Perception": 3,
-            "Force": 5,
-            "Intelligence": 5,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [9, 4],
-            "degats": [7, 2],
             "spe": true
         },
         "ravageur": false
