@@ -148,37 +148,37 @@
             "spe": true
         },
         "ravageur": false
-    }, ,
-            {
-                "name": "Wanizame no oni 3",
-                "rang": 3,
-                "TN": 25,
-                "init": [4, 4],
-                "DR": 3,
-                "anneaux": {
-                    "Terre": 3,
-                    "Eau": 3,
-                    "Feu": 3,
-                    "Air": 2,
-                    "Vide": 0
-                },
-                "caracs": {
-                    "Volonté": 2,
-                    "Endurance": 2,
-                    "Perception": 4,
-                    "Force": 4,
-                    "Intelligence": 1,
-                    "Agilité": 4,
-                    "Intuition": 2,
-                    "Réflexes": 4
-                },
-                "attaque": {
-                    "toucher": [6, 4],
-                    "degats": [4, 4],
-                    "spe": false
-                },
-                "ravageur": false
-            },
+    },
+    {
+        "name": "Wanizame no oni 3",
+        "rang": 3,
+        "TN": 25,
+        "init": [4, 4],
+        "DR": 3,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 2,
+            "Endurance": 2,
+            "Perception": 4,
+            "Force": 4,
+            "Intelligence": 1,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [6, 4],
+            "degats": [4, 4],
+            "spe": false
+        },
+        "ravageur": false
+    },
     {
         "name": "Itaru",
         "rang": 4,
