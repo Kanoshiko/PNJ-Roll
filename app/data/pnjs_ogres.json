@@ -1,0 +1,708 @@
+[
+    {
+        "name": "Ogre 1",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Ogre 2",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Ogre 3",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 4",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 5",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 6",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 7",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 8",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 9",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 10",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 11",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 12",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 13",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 14",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 15",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 16",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }, {
+        "name": "Ogre 17",
+        "rang": 4,
+        "TN": 30,
+        "init": [3, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 3,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [8, 4],
+            "degats": [8, 2],
+            "spe": true
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Chef Ogre 1",
+        "rang": 4,
+        "TN": 30,
+        "init": [5, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [9, 4],
+            "degats": [9, 3],
+            "spe": true
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Chef Ogre 2",
+        "rang": 4,
+        "TN": 30,
+        "init": [5, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [9, 4],
+            "degats": [9, 3],
+            "spe": true
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Chef Ogre 3",
+        "rang": 4,
+        "TN": 30,
+        "init": [5, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [9, 4],
+            "degats": [9, 3],
+            "spe": true
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Itaru",
+        "rang": 4,
+        "TN": 35,
+        "init": [10, 5],
+        "DR": 3,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [9, 4],
+            "degats": [9, 3],
+            "spe": true
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Ronin 1",
+        "rang": 4,
+        "TN": 25,
+        "init": [5, 2],
+        "DR": 3,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [9, 4],
+            "degats": [7, 2],
+            "spe": true
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Ronin 2",
+        "rang": 4,
+        "TN": 25,
+        "init": [5, 2],
+        "DR": 3,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [9, 4],
+            "degats": [7, 2],
+            "spe": true
+        },
+        "ravageur": false
+    },
+    {
+        "name": "Ronin 3",
+        "rang": 4,
+        "TN": 30,
+        "init": [5, 2],
+        "DR": 15,
+        "anneaux": {
+            "Terre": 4,
+            "Eau": 3,
+            "Feu": 3,
+            "Air": 2,
+            "Vide": 0
+        },
+        "caracs": {
+            "Volonté": 3,
+            "Endurance": 3,
+            "Perception": 3,
+            "Force": 5,
+            "Intelligence": 5,
+            "Agilité": 4,
+            "Intuition": 2,
+            "Réflexes": 4
+        },
+        "attaque": {
+            "toucher": [9, 4],
+            "degats": [7, 2],
+            "spe": true
+        },
+        "ravageur": false
+    }
+]
