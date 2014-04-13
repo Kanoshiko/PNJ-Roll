@@ -1,12 +1,12 @@
 [
     {
-        "name": "Majeur - Wanizame no oni 1",
-        "rang": 3,
+        "name": "Grue 1",
+        "rang": 4,
         "TN": 35,
-        "init": [6, 6],
+        "init": [9, 5],
         "DR": 10,
         "anneaux": {
-            "Terre": 5,
+            "Terre": 4,
             "Eau": 3,
             "Feu": 3,
             "Air": 2,
@@ -23,20 +23,20 @@
             "Réflexes": 4
         },
         "attaque": {
-            "toucher": [8, 6],
-            "degats": [6, 4],
-            "spe": false
+            "toucher": [9, 4],
+            "degats": [7, 3],
+            "spe": true
         },
         "ravageur": false
     },
     {
-        "name": "Majeur - Wanizame no oni 2",
-        "rang": 3,
+        "name": "Grue 2",
+        "rang": 4,
         "TN": 35,
-        "init": [6, 6],
+        "init": [9, 5],
         "DR": 10,
         "anneaux": {
-            "Terre": 5,
+            "Terre": 4,
             "Eau": 3,
             "Feu": 3,
             "Air": 2,
@@ -53,20 +53,20 @@
             "Réflexes": 4
         },
         "attaque": {
-            "toucher": [8, 6],
-            "degats": [6, 4],
+            "toucher": [9, 4],
+            "degats": [7, 3],
             "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Wanizame no oni 1",
-        "rang": 3,
-        "TN": 25,
-        "init": [4, 4],
-        "DR": 3,
+        "name": "Grue 3",
+        "rang": 4,
+        "TN": 35,
+        "init": [9, 5],
+        "DR": 10,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 4,
             "Eau": 3,
             "Feu": 3,
             "Air": 2,
@@ -83,20 +83,20 @@
             "Réflexes": 4
         },
         "attaque": {
-            "toucher": [6, 4],
-            "degats": [4, 4],
+            "toucher": [9, 4],
+            "degats": [7, 3],
             "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Wanizame no oni 2",
-        "rang": 3,
-        "TN": 25,
-        "init": [4, 4],
-        "DR": 3,
+        "name": "Grue 5",
+        "rang": 4,
+        "TN": 35,
+        "init": [9, 5],
+        "DR": 10,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 4,
             "Eau": 3,
             "Feu": 3,
             "Air": 2,
@@ -113,20 +113,20 @@
             "Réflexes": 4
         },
         "attaque": {
-            "toucher": [6, 4],
-            "degats": [4, 4],
+            "toucher": [9, 4],
+            "degats": [7, 3],
             "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Wanizame no oni 3",
-        "rang": 3,
-        "TN": 25,
-        "init": [4, 4],
-        "DR": 3,
+        "name": "Grue 6",
+        "rang": 4,
+        "TN": 35,
+        "init": [9, 5],
+        "DR": 10,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 4,
             "Eau": 3,
             "Feu": 3,
             "Air": 2,
@@ -143,20 +143,20 @@
             "Réflexes": 4
         },
         "attaque": {
-            "toucher": [6, 4],
-            "degats": [4, 4],
+            "toucher": [9, 4],
+            "degats": [7, 3],
             "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Wanizame no oni 5",
-        "rang": 3,
-        "TN": 25,
-        "init": [4, 4],
-        "DR": 3,
+        "name": "Grue 7",
+        "rang": 4,
+        "TN": 35,
+        "init": [9, 5],
+        "DR": 10,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 4,
             "Eau": 3,
             "Feu": 3,
             "Air": 2,
@@ -173,20 +173,20 @@
             "Réflexes": 4
         },
         "attaque": {
-            "toucher": [6, 4],
-            "degats": [4, 4],
+            "toucher": [9, 4],
+            "degats": [7, 3],
             "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Wanizame no oni 6",
-        "rang": 3,
-        "TN": 25,
-        "init": [4, 4],
-        "DR": 3,
+        "name": "Grue 8",
+        "rang": 4,
+        "TN": 35,
+        "init": [9, 5],
+        "DR": 10,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 4,
             "Eau": 3,
             "Feu": 3,
             "Air": 2,
@@ -203,20 +203,20 @@
             "Réflexes": 4
         },
         "attaque": {
-            "toucher": [6, 4],
-            "degats": [4, 4],
+            "toucher": [9, 4],
+            "degats": [7, 3],
             "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Wanizame no oni 7",
-        "rang": 3,
-        "TN": 25,
-        "init": [4, 4],
-        "DR": 3,
+        "name": "Grue 9",
+        "rang": 4,
+        "TN": 35,
+        "init": [9, 5],
+        "DR": 10,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 4,
             "Eau": 3,
             "Feu": 3,
             "Air": 2,
@@ -233,20 +233,20 @@
             "Réflexes": 4
         },
         "attaque": {
-            "toucher": [6, 4],
-            "degats": [4, 4],
+            "toucher": [9, 4],
+            "degats": [7, 3],
             "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Wanizame no oni 8",
-        "rang": 3,
-        "TN": 25,
-        "init": [4, 4],
-        "DR": 3,
+        "name": "Grue 10",
+        "rang": 4,
+        "TN": 35,
+        "init": [9, 5],
+        "DR": 10,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 4,
             "Eau": 3,
             "Feu": 3,
             "Air": 2,
@@ -263,20 +263,20 @@
             "Réflexes": 4
         },
         "attaque": {
-            "toucher": [6, 4],
-            "degats": [4, 4],
+            "toucher": [9, 4],
+            "degats": [7, 3],
             "spe": false
         },
         "ravageur": false
     },
     {
-        "name": "Wanizame no oni 9",
-        "rang": 3,
-        "TN": 25,
-        "init": [4, 4],
-        "DR": 3,
+        "name": "Shug Grue",
+        "rang": 4,
+        "TN": 40,
+        "init": [10, 6],
+        "DR": 10,
         "anneaux": {
-            "Terre": 3,
+            "Terre": 4,
             "Eau": 3,
             "Feu": 3,
             "Air": 2,
@@ -293,68 +293,8 @@
             "Réflexes": 4
         },
         "attaque": {
-            "toucher": [6, 4],
-            "degats": [4, 4],
-            "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Wanizame no oni 10",
-        "rang": 3,
-        "TN": 25,
-        "init": [4, 4],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 2,
-            "Endurance": 2,
-            "Perception": 4,
-            "Force": 4,
-            "Intelligence": 1,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [6, 4],
-            "degats": [4, 4],
-            "spe": false
-        },
-        "ravageur": false
-    },
-    {
-        "name": "Wanizame no oni 11",
-        "rang": 3,
-        "TN": 25,
-        "init": [4, 4],
-        "DR": 3,
-        "anneaux": {
-            "Terre": 3,
-            "Eau": 3,
-            "Feu": 3,
-            "Air": 2,
-            "Vide": 0
-        },
-        "caracs": {
-            "Volonté": 2,
-            "Endurance": 2,
-            "Perception": 4,
-            "Force": 4,
-            "Intelligence": 1,
-            "Agilité": 4,
-            "Intuition": 2,
-            "Réflexes": 4
-        },
-        "attaque": {
-            "toucher": [6, 4],
-            "degats": [4, 4],
+            "toucher": [9, 4],
+            "degats": [7, 3],
             "spe": false
         },
         "ravageur": false
@@ -364,7 +304,7 @@
         "rang": 4,
         "TN": 35,
         "init": [10, 5],
-        "DR": 3,
+        "DR": 10,
         "anneaux": {
             "Terre": 4,
             "Eau": 3,
