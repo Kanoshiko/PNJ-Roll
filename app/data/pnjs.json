@@ -55,7 +55,7 @@
         "attaque": {
             "toucher": [9, 4],
             "degats": [7, 3],
-            "spe": false
+            "spe": true
         },
         "ravageur": false
     },
@@ -85,7 +85,7 @@
         "attaque": {
             "toucher": [9, 4],
             "degats": [7, 3],
-            "spe": false
+            "spe": true
         },
         "ravageur": false
     },
@@ -115,7 +115,7 @@
         "attaque": {
             "toucher": [9, 4],
             "degats": [7, 3],
-            "spe": false
+            "spe": true
         },
         "ravageur": false
     },
@@ -145,7 +145,7 @@
         "attaque": {
             "toucher": [9, 4],
             "degats": [7, 3],
-            "spe": false
+            "spe": true
         },
         "ravageur": false
     },
@@ -175,7 +175,7 @@
         "attaque": {
             "toucher": [9, 4],
             "degats": [7, 3],
-            "spe": false
+            "spe": true
         },
         "ravageur": false
     },
@@ -205,7 +205,7 @@
         "attaque": {
             "toucher": [9, 4],
             "degats": [7, 3],
-            "spe": false
+            "spe": true
         },
         "ravageur": false
     },
@@ -235,7 +235,7 @@
         "attaque": {
             "toucher": [9, 4],
             "degats": [7, 3],
-            "spe": false
+            "spe": true
         },
         "ravageur": false
     },
@@ -265,7 +265,7 @@
         "attaque": {
             "toucher": [9, 4],
             "degats": [7, 3],
-            "spe": false
+            "spe": true
         },
         "ravageur": false
     },
@@ -295,7 +295,7 @@
         "attaque": {
             "toucher": [9, 4],
             "degats": [7, 3],
-            "spe": false
+            "spe": true
         },
         "ravageur": false
     },
